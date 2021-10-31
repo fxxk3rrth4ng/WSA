@@ -260,7 +260,7 @@ setenforce 0
 1. 명령 프롬프트 창을 닫고, Play 스토어를 실행합니다.
 
 [하드웨어 요구사항 확인하기]: https://www.microsoft.com/en-us/windows/windows-11-specifications
-[링크]: https://github.com/fxxk3rrth4ng/WSA/archive/refs/heads/main.zip
+[링크]: https://github.com/fxxk3rrth4ng/WSA/releases/download/20211029/WSA-Assets.zip
 [8]: Image/8.jpg
 [9]: Image/9.jpg
 [10]: Image/10.jpg
